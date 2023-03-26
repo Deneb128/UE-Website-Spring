@@ -1,7 +1,7 @@
 
 # UniversalElements-Website
 This is a personal project made to learn the Java Spring framework to handle some functionalities of a MMORPG-style game.
-Right now it has a single route to do the registration of an account. Passowrds are hashed with BCrypt.
+Right now it has a single route to do the registration of an account. Passwords are hashed with BCrypt.
 
 
 TO DO:
