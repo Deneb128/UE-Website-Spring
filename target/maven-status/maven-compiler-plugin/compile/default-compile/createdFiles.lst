@@ -1,0 +1,11 @@
+com\universalelements\Utilities\Utilities.class
+com\universalelements\APIControllers\AccountController.class
+com\universalelements\APIControllers\AccountRepository.class
+com\universalelements\WebControllers\RegisterAccountController.class
+com\universalelements\APIControllers\AccountServiceInterface.class
+com\universalelements\Exception\GlobalExceptionMessageHandler.class
+com\universalelements\Exception\GlobalExceptionMessageSender.class
+com\universalelements\WebControllers\LoginController.class
+com\universalelements\UniversalElementsApplication.class
+com\universalelements\APIControllers\AccountService.class
+com\universalelements\Entities\Account.class
